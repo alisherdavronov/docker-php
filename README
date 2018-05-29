@@ -1,2 +1,2 @@
 docker image 
-php:7.2-apache + rewrite
+php:7.0-apache + rewrite
